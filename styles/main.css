@@ -27,7 +27,8 @@
 }
 
 body{
-    background-color: var(--mainBgColor);            
+    background-color: var(--mainBgColor);
+    zoom: 1.1;
 }
 
 p, span, li{
